@@ -1,1 +1,1 @@
-Readme for the simpleiuyuyoduoiiiii delddddrfjct
+Readme for the simple shell project
