@@ -1,1 +1,1 @@
-Readme for the simpleuoiii delddddrfjct
+Readme for the simpleduoiii delddddrfjct
