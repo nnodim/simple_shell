@@ -1,1 +1,1 @@
-Readme for the simple shell prfjct
+Readme for the simple shell pdrfjct
