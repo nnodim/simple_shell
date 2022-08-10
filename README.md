@@ -1,1 +1,1 @@
-Readme for the simple shell projec.t
+Readme for the simple shell project
